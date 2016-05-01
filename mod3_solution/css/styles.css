@@ -25,6 +25,9 @@ body {
   line-height: .75;
 }
 
+.navbar-brand a {
+  text-decoration: none;
+}
 #nav-list {
   margin-top: 10px;
 }
